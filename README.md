@@ -15,3 +15,15 @@ SQL — CRUD Operations (`sql_crud/`).
 | 5.1 | `sql_crud/5-update_by_id.sql` |
 | 5.2 | `sql_crud/5-update_by_condition.sql` |
 | 5.3 | `sql_crud/5-update_with_and.sql` |
+| 6.1 | `sql_crud/6-delete_by_id.sql` |
+| 6.2 | `sql_crud/6-delete_by_condition.sql` |
+| 6.3 | `sql_crud/6-delete_with_and.sql` |
+| 7.1 | `sql_crud/7-order_by_price_asc.sql` |
+| 7.2 | `sql_crud/7-order_by_year_desc.sql` |
+| 7.3 | `sql_crud/7-limit_results.sql` |
+| 7.4 | `sql_crud/7-order_and_limit.sql` |
+| 8.1 | `sql_crud/8-count_books.sql` |
+| 8.2 | `sql_crud/8-average_price.sql` |
+| 8.3 | `sql_crud/8-max_stock.sql` |
+| 8.4 | `sql_crud/8-total_stock.sql` |
+| 8.5 | `sql_crud/8-min_price.sql` |
