@@ -44,3 +44,6 @@ SQL — Joins & Relationships (`sql_join/`).
 |------|------|
 | 1 | `sql_join/1-books-with-authors.sql` |
 | 2 | `sql_join/2-authors-with-books.sql` |
+| 3 | `sql_join/3-students-and-courses.sql` |
+| 4 | `sql_join/4-courses-and-students.sql` |
+| 5 | `sql_join/5-students-with-enrollments.sql` |
