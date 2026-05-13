@@ -9,6 +9,6 @@ HAVING COUNT(assignments.id) > (
         FROM courses c
         LEFT JOIN assignments a ON c.id = a.course_id
         GROUP BY c.id
-    )
+    ) AS assignment_stats
 )
 ORDER BY course_title ASC;
