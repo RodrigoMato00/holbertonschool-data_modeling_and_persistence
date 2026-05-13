@@ -37,3 +37,9 @@ SQL — CRUD Operations (`sql_crud/`).
 | 10.4 | `sql_crud/10-cheapest_available.sql` |
 | 10.5 | `sql_crud/10-stock_by_genre.sql` |
 | 10.6 | `sql_crud/10-average_price_by_genre.sql` |
+
+SQL — Joins & Relationships (`sql_join/`).
+
+| Task | File |
+|------|------|
+| 1 | `sql_join/1-books-with-authors.sql` |
