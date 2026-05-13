@@ -6,3 +6,4 @@ SQL — CRUD Operations (`sql_crud/`).
 |------|------|
 | 0 | `sql_crud/0-create_table.sql` |
 | 1 | `sql_crud/1-insert_data.sql` |
+| 2 | `sql_crud/2-select_all.sql` |
