@@ -27,3 +27,13 @@ SQL — CRUD Operations (`sql_crud/`).
 | 8.3 | `sql_crud/8-max_stock.sql` |
 | 8.4 | `sql_crud/8-total_stock.sql` |
 | 8.5 | `sql_crud/8-min_price.sql` |
+| 9.1 | `sql_crud/9-count_by_genre.sql` |
+| 9.2 | `sql_crud/9-average_price_by_genre.sql` |
+| 9.3 | `sql_crud/9-total_stock_by_genre.sql` |
+| 9.4 | `sql_crud/9-count_by_author.sql` |
+| 10.1 | `sql_crud/10-select_tech_books.sql` |
+| 10.2 | `sql_crud/10-increase_stock.sql` |
+| 10.3 | `sql_crud/10-delete_zero_stock.sql` |
+| 10.4 | `sql_crud/10-cheapest_available.sql` |
+| 10.5 | `sql_crud/10-stock_by_genre.sql` |
+| 10.6 | `sql_crud/10-average_price_by_genre.sql` |
