@@ -47,3 +47,13 @@ SQL — Joins & Relationships (`sql_join/`).
 | 3 | `sql_join/3-students-and-courses.sql` |
 | 4 | `sql_join/4-courses-and-students.sql` |
 | 5 | `sql_join/5-students-with-enrollments.sql` |
+| 6 | `sql_join/6-courses-above-average.sql` |
+| 7 | `sql_join/7-course-enrollment-count.sql` |
+| 8 | `sql_join/8-courses-and-instructors.sql` |
+| 9 | `sql_join/9-instructors-and-courses.sql` |
+| 10 | `sql_join/10-students-and-registered-courses.sql` |
+| 11 | `sql_join/11-course-registration-count.sql` |
+| 12 | `sql_join/12-students-with-registrations.sql` |
+| 13 | `sql_join/13-courses-above-average-assignments.sql` |
+| 14 | `sql_join/14-courses-and-assignments.sql` |
+| 15 | `sql_join/15-instructors-with-active-courses.sql` |
