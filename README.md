@@ -43,3 +43,4 @@ SQL — Joins & Relationships (`sql_join/`).
 | Task | File |
 |------|------|
 | 1 | `sql_join/1-books-with-authors.sql` |
+| 2 | `sql_join/2-authors-with-books.sql` |
